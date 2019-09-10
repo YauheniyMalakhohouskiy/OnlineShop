@@ -1,28 +1,5 @@
 <application>
   <component name="IlluminatedCloudSettings">
-    <option name="connectionConfigs">
-      <list>
-        <IlluminatedCloudConnectionConfig>
-          <option name="connectionName" value="cotolog123" />
-          <option name="connectionType" value="MDAPI" />
-          <option name="organizationType" value="DEVELOPMENT" />
-          <option name="username" value="username@ctconsulting.by" />
-        </IlluminatedCloudConnectionConfig>
-        <IlluminatedCloudConnectionConfig>
-          <option name="connectionName" value="cotolog123 (2)" />
-          <option name="connectionType" value="MDAPI" />
-          <option name="organizationType" value="DEVELOPMENT" />
-          <option name="username" value="username@ctconsulting.by" />
-        </IlluminatedCloudConnectionConfig>
-        <IlluminatedCloudConnectionConfig>
-          <option name="connectionName" value="PlayGround2" />
-          <option name="connectionType" value="MDAPI" />
-          <option name="username" value="nikita.kuper9131@playful-hawk-cq9dfj.com" />
-        </IlluminatedCloudConnectionConfig>
-      </list>
-    </option>
     <option name="promptOverrideSaveAllAction" value="false" />
-    <option name="selectedConnectionIndex" value="0" />
-    <option name="selectedTabIndex" value="1" />
   </component>
 </application>
