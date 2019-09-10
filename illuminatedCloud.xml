@@ -1,5 +1,17 @@
 <application>
   <component name="IlluminatedCloudSettings">
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="New Connection1" />
+          <option name="connectionType" value="MDAPI" />
+          <option name="organizationType" value="DEVELOPMENT" />
+          <option name="username" value="username@ctconsulting.by" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
     <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="1" />
   </component>
 </application>
